@@ -22,3 +22,6 @@ asciidoctor:
 collections:
   documents:
      output: true
+
+theme: minimal-mistakes-jekyll
+
